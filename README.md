@@ -44,7 +44,7 @@ Além disso, o BeatTimer integra autenticação com o **Spotify**, permitindo bu
 
 # Git clone -> 
 
-git clone https://github.com/Pedro1santiago/BeatTimer-Rel-gio-Cron-metro-Pomodoro.git && cd BeatTimer-Rel-gio-Cron-metro-Pomodoro
+git clone https://github.com/Pedro1santiago/BeatTimer-Project.git && cd BeatTimer-Rel-gio-Cron-metro-Pomodoro
 
 # Compile os arquivos Java ->
 
