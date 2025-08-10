@@ -34,25 +34,37 @@ Além disso, o BeatTimer integra autenticação com o **Spotify**, permitindo bu
 
 ## Como executar
 
+#Instale o executável
+
+- Acesse https://github.com/Pedro1santiago/BeatTimer-Rel-gio-Cron-metro-Pomodoro/blob/master/Exec%20-%20BeatTimer.zip
+- Clique em View raw.
+- Abra o arquivo e execute o instalador.
+- Após instalar o aplicativo, pesquise por "Relogio" e abra o aplicativo.
+
+
+# Git clone -> 
+
 git clone https://github.com/Pedro1santiago/BeatTimer-Rel-gio-Cron-metro-Pomodoro.git && cd BeatTimer-Rel-gio-Cron-metro-Pomodoro
 
-# Compile os arquivos Java (substitua path_to_javafx_libs pelo caminho correto da sua lib JavaFX)
+# Compile os arquivos Java ->
 
-# No Windows:
+- (substitua path_to_javafx_libs pelo caminho correto da sua lib JavaFX)
+
+- No Windows:
 javac -cp ".;path_to_javafx_libs/*" src/*.java
 
-# No Linux/Mac:
+- No Linux/Mac:
 javac -cp ".:path_to_javafx_libs/*" src/*.java
 
-# Execute o app
+- Execute o app
 
-# No Windows:
+-  No Windows:
 java -cp ".;path_to_javafx_libs/*" RelogioConfig
 
-# No Linux/Mac:
+- No Linux/Mac:
 java -cp ".:path_to_javafx_libs/*" RelogioConfig
 
 # Observações:
-# - Substitua path_to_javafx_libs pelo caminho das bibliotecas JavaFX no seu sistema.
-# - Tenha o Java 17+ instalado e configurado.
-# - Pode usar IDEs como IntelliJ, Eclipse ou NetBeans para facilitar o processo.
+- Substitua path_to_javafx_libs pelo caminho das bibliotecas JavaFX no seu sistema.
+- Tenha o Java 17+ instalado e configurado.
+- Pode usar IDEs como IntelliJ, Eclipse ou NetBeans para facilitar o processo.
